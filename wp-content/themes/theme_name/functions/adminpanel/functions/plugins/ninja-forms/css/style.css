@@ -1,0 +1,38 @@
+li.memberships {
+    display: none !important;
+}
+li.apps {
+    display: none !important;
+}
+li.services {
+    display: none !important;
+}
+
+#plugin_name-forms-dashboard tr.show-actions .form-row-actions {
+    background: #1ea9ea !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+    bottom: -30px !important;
+    margin-bottom: 20px !important;
+}
+#plugin_name-forms-dashboard tr.show-actions .form-row-actions a {
+    color: inherit;
+}
+
+.template-list > div:nth-child(3),
+.template-list > div:nth-child(4),
+.template-list > div:nth-child(5),
+.template-list > div:nth-child(6),
+.template-list > div:nth-child(7),
+.template-list > div:nth-child(10),
+.template-list > div:nth-child(11),
+.template-list > div:nth-child(13),
+.template-list > div:nth-child(14) {
+    /* background-color: #2c2c2c !important;
+    color: #fff !important; */
+    display: none !important;
+}
+
+.nf-field-wrap.html {
+    background-color: #f2fbff;
+}

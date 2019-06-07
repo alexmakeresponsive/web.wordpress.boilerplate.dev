@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Theme\\ThemeName\\": "path/to/theme/folder"}
+    },
+    "require-dev": {
+        "kint-php/kint": "^3.1"
+    }
+}
